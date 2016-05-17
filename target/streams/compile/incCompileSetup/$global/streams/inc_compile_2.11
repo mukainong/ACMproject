@@ -1,0 +1,128 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mukainong/Documents/sparkApp/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$$anonfun$main$1$$anonfun$1.class
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$$anonfun$main$1.class
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$.class
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames.class
+binary dependencies:
+3 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.4.1.jar
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> /Users/mukainong/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> GenerateNames
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> GenerateNames$
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> GenerateNames$$anonfun$main$1
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> GenerateNames$$anonfun$main$1$$anonfun$1
+used names:
+38 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> +
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> <init>
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> AnyRef
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> Array
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> ClassTag
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> GenerateNames
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> Predef
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> Random
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> Seq
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> SparkConf
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> SparkContext
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> String
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> Unit
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> alphanumeric
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> apache
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> apply
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> collection
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> conf
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> data
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> fill
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> foreach
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> intWrapper
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> materializeClassTag
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> mkString
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> org
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> outputDir
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> package
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> parallelize
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> partition
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> saveAsTextFile
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> sc
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> scala
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> setAppName
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> setMaster
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> spark
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> take
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> to
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> util
+product stamps:
+4 items
+/Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$$anonfun$main$1$$anonfun$1.class -> lastModified(1463519896000)
+/Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$$anonfun$main$1.class -> lastModified(1463519896000)
+/Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames$.class -> lastModified(1463519896000)
+/Users/mukainong/Documents/sparkApp/target/scala-2.11/classes/GenerateNames.class -> lastModified(1463519896000)
+source stamps:
+1 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> hash(2a389fffa69b7e601d3bf32eb9d5546e9a62e351)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/mukainong/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.4.1.jar -> lastModified(1436399677000)
+/Users/mukainong/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mukainong/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.4.1.jar -> org.apache.spark.rdd.RDD
+/Users/mukainong/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Unit
+internal apis:
+1 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC9varWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPCSit10AAZub3RpZnlzcQB+AAy1A5YVdAANR2VuZXJhdGVOYW1lc3NxAH4ADBwYwzF0AAR3YWl0c3EAfgAM45imOnQADSRhc0luc3RhbmNlT2ZzcQB+AAxr/5q/dAAGZXF1YWxzc3EAfgAMWs9HonQADGFzSW5zdGFuY2VPZnNxAH4ADD4A+Tl0AAxzeW5jaHJvbml6ZWRzcQB+AAz2stp3dAANJGlzSW5zdGFuY2VPZnNxAH4ADDbcTwd0AARtYWluc3EAfgAMqKzhwnQACW5vdGlmeUFsbHNxAH4ADOslr9B0AAlvdXRwdXREaXJzcQB+AAzmpivxdAAMaXNJbnN0YW5jZU9mc3EAfgAMaXttG3QAAj09c3EAfgAMOOYvznQABWNsb25lc3EAfgAM0y6AFHQACHRvU3RyaW5nc3EAfgAMqzZ0VnQAAiE9c3EAfgAMH3U2DHQACGdldENsYXNzc3EAfgAMB0Inx3QAAm5lc3EAfgAM4LPs+XQAAmVxc3EAfgAMaM9JD3QAAiMjc3EAfgAMjyTfN3QACGZpbmFsaXplc3EAfgAM5qi9FHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AX3NxAH4AWnVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AH3VxAH4AUgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF5zcQB+AG10AAVBcnJheXEAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG10AAZTdHJpbmdzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5dAAEamF2YXNxAH4AeXQABGxhbmdxAH4AfnNxAH4AWnVxAH4APgAAAABzcQB+AFp1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUwJVYKnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vVXNlcnMvbXVrYWlub25nL0RvY3VtZW50cy9zcGFya0FwcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKjif/6abfmAdO/MuudVUbppi41E=
+external apis:
+0 items
+source infos:
+1 items
+/Users/mukainong/Documents/sparkApp/src/main/scala/GenerateNames.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMB8Ykt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9tdWthaW5vbmcvRG9jdW1lbnRzL3NwYXJrQXBwL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMCHoYl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9tdWthaW5vbmcvRG9jdW1lbnRzL3NwYXJrQXBwL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMCRo751cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9tdWthaW5vbmcvRG9jdW1lbnRzL3NwYXJrQXBwL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMCVWCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9tdWthaW5vbmcvRG9jdW1lbnRzL3NwYXJrQXBwL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
