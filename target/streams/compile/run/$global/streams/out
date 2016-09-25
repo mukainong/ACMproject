@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning HelloWorld [0m
+[0m[[0minfo[0m] [0mRunning csvSplit [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/mukainong/Documents/sparkApp/target/scala-2.11/classes[0m
@@ -120,7 +120,29 @@
 [0m[[0mdebug[0m] [0m	/Users/mukainong/.ivy2/cache/net.razorvine/pyrolite/jars/pyrolite-4.4.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/mukainong/.ivy2/cache/net.sf.py4j/py4j/jars/py4j-0.8.2.1.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[31merror[0m] [0m(run-main-0) org.apache.spark.SparkException: Job cancelled because SparkContext was shut down[0m
+org.apache.spark.SparkException: Job cancelled because SparkContext was shut down
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$cleanUpAfterSchedulerStop$1.apply(DAGScheduler.scala:736)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$cleanUpAfterSchedulerStop$1.apply(DAGScheduler.scala:735)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:78)
+	at org.apache.spark.scheduler.DAGScheduler.cleanUpAfterSchedulerStop(DAGScheduler.scala:735)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onStop(DAGScheduler.scala:1475)
+	at org.apache.spark.util.EventLoop.stop(EventLoop.scala:84)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1410)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1644)
+	at org.apache.spark.SparkContext$$anonfun$3.apply$mcV$sp(SparkContext.scala:559)
+	at org.apache.spark.util.SparkShutdownHook.run(Utils.scala:2308)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Utils.scala:2278)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(Utils.scala:2278)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(Utils.scala:2278)
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1772)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply$mcV$sp(Utils.scala:2278)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(Utils.scala:2278)
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(Utils.scala:2278)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.apache.spark.util.SparkShutdownHookManager.runAll(Utils.scala:2278)
+	at org.apache.spark.util.SparkShutdownHookManager$$anon$6.run(Utils.scala:2260)
+	at org.apache.hadoop.util.ShutdownHookManager$1.run(ShutdownHookManager.java:54)
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
-[0m[[0mdebug[0m] [0mExited with code 0[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Thread-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Thread-1 exited.[0m
